@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="joe dup.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="joe_dup.jpg">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="joe_dup.jpg">
 </picture>
 
 <!--
